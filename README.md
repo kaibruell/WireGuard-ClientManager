@@ -39,7 +39,7 @@ WireGuard VPN-Server mit Docker und erweiterte Client-Verwaltung über Bash-Skri
 
 ## Konfiguration
 
-- **Server IP**: <yourip>:51820
+- **Server IP**: [yourip]:51820
 - **VPN Netzwerk**: 10.13.13.0/24
 - **Max Clients**: 5 (konfigurierbar)
 
